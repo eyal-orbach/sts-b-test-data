@@ -1,121 +1,136 @@
-Creative Commons Legal Code
 
-CC0 1.0 Universal
+Notes on datasets and licenses
+------------------------------
 
-    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
-    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
-    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
-    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
-    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
-    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
-    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
-    HEREUNDER.
+If using this data in your research please cite the following paper
+and the url of the STS website: http://ixa2.si.ehu.eus/stswiki:
 
-Statement of Purpose
+   Eneko Agirre, Daniel Cer, Mona Diab, Iñigo Lopez-Gazpio, Lucia
+    Specia. Semeval-2017 Task 1: Semantic Textual Similarity
+    Multilingual and Crosslingual Focused Evaluation. Proceedings of
+    SemEval 2017.
 
-The laws of most jurisdictions throughout the world automatically confer
-exclusive Copyright and Related Rights (defined below) upon the creator
-and subsequent owner(s) (each and all, an "owner") of an original work of
-authorship and/or a database (each, a "Work").
+The scores are released under a "Commons Attribution - Share Alike 4.0
+International License" http://creativecommons.org/licenses/by-sa/4.0/
 
-Certain owners wish to permanently relinquish those rights to a Work for
-the purpose of contributing to a commons of creative, cultural and
-scientific works ("Commons") that the public can reliably and without fear
-of later claims of infringement build upon, modify, incorporate in other
-works, reuse and redistribute as freely as possible in any form whatsoever
-and for any purposes, including without limitation commercial purposes.
-These owners may contribute to the Commons to promote the ideal of a free
-culture and the further production of creative, cultural and scientific
-works, or to gain reputation or greater distribution for their Work in
-part through the use and efforts of others.
+The text of each dataset has a license of its own, as follows:
 
-For these and/or other purposes and motivations, and without any
-expectation of additional consideration or compensation, the person
-associating CC0 with a Work (the "Affirmer"), to the extent that he or she
-is an owner of Copyright and Related Rights in the Work, voluntarily
-elects to apply CC0 to the Work and publicly distribute the Work under its
-terms, with knowledge of his or her Copyright and Related Rights in the
-Work and the meaning and intended legal effect of CC0 on those rights.
+- MSR-Paraphrase, Microsoft Research Paraphrase Corpus. In order to use
+  MSRpar, researchers need to agree with the license terms from
+  Microsoft Research:
+  http://research.microsoft.com/en-us/downloads/607d14d9-20cd-47e3-85bc-a2f65cd28042/
 
-1. Copyright and Related Rights. A Work made available under CC0 may be
-protected by copyright and related or neighboring rights ("Copyright and
-Related Rights"). Copyright and Related Rights include, but are not
-limited to, the following:
+- headlines: Mined from several news sources by European Media Monitor
+  (Best et al. 2005). using the RSS feed. European Media Monitor (EMM)
+  Real Time News Clusters are the top news stories for the last 4
+  hours, updated every ten minutes. The article clustering is fully
+  automatic. The selection and placement of stories are determined
+  automatically by a computer program. This site is a joint project of
+  DG-JRC and DG-COMM. The information on this site is subject to a
+  disclaimer (see
+  http://europa.eu/geninfo/legal_notices_en.htm). Please acknowledge
+  EMM when (re)using this material.
+  http://emm.newsbrief.eu/rss?type=rtn&language=en&duplicates=false
 
-  i. the right to reproduce, adapt, distribute, perform, display,
-     communicate, and translate a Work;
- ii. moral rights retained by the original author(s) and/or performer(s);
-iii. publicity and privacy rights pertaining to a person's image or
-     likeness depicted in a Work;
- iv. rights protecting against unfair competition in regards to a Work,
-     subject to the limitations in paragraph 4(a), below;
-  v. rights protecting the extraction, dissemination, use and reuse of data
-     in a Work;
- vi. database rights (such as those arising under Directive 96/9/EC of the
-     European Parliament and of the Council of 11 March 1996 on the legal
-     protection of databases, and under any national implementation
-     thereof, including any amended or successor version of such
-     directive); and
-vii. other similar, equivalent or corresponding rights throughout the
-     world based on applicable law or treaty, and any national
-     implementations thereof.
+- deft-news: A subset of news article data in the DEFT
+  project.  
 
-2. Waiver. To the greatest extent permitted by, but not in contravention
-of, applicable law, Affirmer hereby overtly, fully, permanently,
-irrevocably and unconditionally waives, abandons, and surrenders all of
-Affirmer's Copyright and Related Rights and associated claims and causes
-of action, whether now known or unknown (including existing as well as
-future claims and causes of action), in the Work (i) in all territories
-worldwide, (ii) for the maximum duration provided by applicable law or
-treaty (including future time extensions), (iii) in any current or future
-medium and for any number of copies, and (iv) for any purpose whatsoever,
-including without limitation commercial, advertising or promotional
-purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each
-member of the public at large and to the detriment of Affirmer's heirs and
-successors, fully intending that such Waiver shall not be subject to
-revocation, rescission, cancellation, termination, or any other legal or
-equitable action to disrupt the quiet enjoyment of the Work by the public
-as contemplated by Affirmer's express Statement of Purpose.
+- MSR-Video, Microsoft Research Video Description Corpus.  In order to
+  use MSRvideo, researchers need to agree with the license terms from
+  Microsoft Research: 
+  http://research.microsoft.com/en-us/downloads/38cf15fd-b8df-477e-a4e4-a4680caa75af/
 
-3. Public License Fallback. Should any part of the Waiver for any reason
-be judged legally invalid or ineffective under applicable law, then the
-Waiver shall be preserved to the maximum extent permitted taking into
-account Affirmer's express Statement of Purpose. In addition, to the
-extent the Waiver is so judged Affirmer hereby grants to each affected
-person a royalty-free, non transferable, non sublicensable, non exclusive,
-irrevocable and unconditional license to exercise Affirmer's Copyright and
-Related Rights in the Work (i) in all territories worldwide, (ii) for the
-maximum duration provided by applicable law or treaty (including future
-time extensions), (iii) in any current or future medium and for any number
-of copies, and (iv) for any purpose whatsoever, including without
-limitation commercial, advertising or promotional purposes (the
-"License"). The License shall be deemed effective as of the date CC0 was
-applied by Affirmer to the Work. Should any part of the License for any
-reason be judged legally invalid or ineffective under applicable law, such
-partial invalidity or ineffectiveness shall not invalidate the remainder
-of the License, and in such case Affirmer hereby affirms that he or she
-will not (i) exercise any of his or her remaining Copyright and Related
-Rights in the Work or (ii) assert any associated claims and causes of
-action with respect to the Work, in either case contrary to Affirmer's
-express Statement of Purpose.
+- image: The Image Descriptions data set is a subset of
+  the PASCAL VOC-2008 data set (Rashtchian et al., 2010) . PASCAL
+  VOC-2008 data set consists of 1,000 images and has been used by a
+  number of image description systems. The image captions of the data
+  set are released under a CreativeCommons Attribution-ShareAlike
+  license, the descriptions itself are free.
 
-4. Limitations and Disclaimers.
+- track5.en-en: This text is a subset of the Stanford Natural
+  Language Inference (SNLI) corpus, by The Stanford NLP Group is
+  licensed under a Creative Commons Attribution-ShareAlike 4.0
+  International License. Based on a work at
+  http://shannon.cs.illinois.edu/DenotationGraph/.
+  https://creativecommons.org/licenses/by-sa/4.0/
 
- a. No trademark or patent rights held by Affirmer are waived, abandoned,
-    surrendered, licensed or otherwise affected by this document.
- b. Affirmer offers the Work as-is and makes no representations or
-    warranties of any kind concerning the Work, express, implied,
-    statutory or otherwise, including without limitation warranties of
-    title, merchantability, fitness for a particular purpose, non
-    infringement, or the absence of latent or other defects, accuracy, or
-    the present or absence of errors, whether or not discoverable, all to
-    the greatest extent permissible under applicable law.
- c. Affirmer disclaims responsibility for clearing rights of other persons
-    that may apply to the Work or any use thereof, including without
-    limitation any person's Copyright and Related Rights in the Work.
-    Further, Affirmer disclaims responsibility for obtaining any necessary
-    consents, permissions or other rights required for any use of the
-    Work.
- d. Affirmer understands and acknowledges that Creative Commons is not a
-    party to this document and has no duty or obligation with respect to
-    this CC0 or use of the Work.
+- answers-answers: user content from stack-exchange. Check the license
+  below in ======ANSWERS-ANSWERS======
+
+- answers-forums: user content from stack-exchange. Check the license
+  below in ======ANSWERS-FORUMS======
+
+
+
+======ANSWER-ANSWER======
+
+Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+http://creativecommons.org/licenses/by-sa/3.0/
+
+Attribution Requirements:
+
+   "* Visually display or otherwise indicate the source of the content
+      as coming from the Stack Exchange Network. This requirement is 
+      satisfied with a discreet text blurb, or some other unobtrusive but
+      clear visual indication.
+
+    * Ensure that any Internet use of the content includes a hyperlink 
+      directly to the original question on the source site on the Network
+      (e.g., http://stackoverflow.com/questions/12345)
+
+    * Visually display or otherwise clearly indicate the author names for 
+      every question and answer used
+
+    * Ensure that any Internet use of the content includes a hyperlink for 
+      each author name directly back to his or her user profile page on the
+      source site on the Network (e.g., 
+      http://stackoverflow.com/users/12345/username), directly to the Stack
+      Exchange domain, in standard HTML (i.e. not through a Tinyurl or other
+      such indirect hyperlink, form of obfuscation or redirection), without 
+      any “nofollow” command or any other such means of avoiding detection by
+      search engines, and visible even with JavaScript disabled."
+
+    (https://archive.org/details/stackexchange)
+
+
+
+======ANSWERS-FORUMS======
+
+
+Stack Exchange Inc. generously made the data used to construct the STS 2015 answer-answer statement pairs available under a Creative Commons Attribution-ShareAlike (cc-by-sa) 3.0 license.
+
+The license is reproduced below from: https://archive.org/details/stackexchange
+
+The STS.input.answers-forums.txt file should be redistributed with this LICENSE text and the accompanying files in LICENSE.answers-forums.zip. The tsv files in the zip file contain the additional information that's needed to comply with the license.
+
+--
+
+All user content contributed to the Stack Exchange network is cc-by-sa 3.0 licensed, intended to be shared and remixed. We even provide all our data as a convenient data dump.
+
+http://creativecommons.org/licenses/by-sa/3.0/
+
+But our cc-by-sa 3.0 licensing, while intentionally permissive, does *require attribution*:
+
+"Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work)."
+
+Specifically the attribution requirements are as follows:
+
+  1. Visually display or otherwise indicate the source of the content as coming from the Stack Exchange Network. This requirement is satisfied with a discreet text blurb, or some other unobtrusive but clear visual indication.
+
+  2. Ensure that any Internet use of the content includes a hyperlink directly to the original question on the source site on the Network (e.g., http://stackoverflow.com/questions/12345)
+
+  3. Visually display or otherwise clearly indicate the author names for every question and answer so used.
+
+  4. Ensure that any Internet use of the content includes a hyperlink for each author name directly back to his or her user profile page on the source site on the Network (e.g., http://stackoverflow.com/users/12345/username), directly to the Stack Exchange domain, in standard HTML (i.e. not through a Tinyurl or other such indirect hyperlink, form of obfuscation or redirection), without any “nofollow” command or any other such means of avoiding detection by search engines, and visible even with JavaScript disabled.
+
+Our goal is to maintain the spirit of fair attribution. That means attribution to the website, and more importantly, to the individuals who so generously contributed their time to create that content in the first place!
+
+For more information, see the Stack Exchange Terms of Service: http://stackexchange.com/legal/terms-of-service
+
+
+
+
+
+
+
+
