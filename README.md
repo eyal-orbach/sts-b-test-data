@@ -5,5 +5,5 @@
     Multilingual and Crosslingual Focused Evaluation. Proceedings of
     SemEval 2017.
 
-### Added context to original dataset was done with OpenAI chatgpt-3.5
-### This dataset is used for a research paper currently under review. We ask that any usage of it awaits the publication of the paper and an appropiate Open-Source License that will be added at a later time.
+Added context to original dataset was done with OpenAI chatgpt-3.5
+#### This dataset is used for a research paper currently under review. We ask that any usage of it awaits the publication of the paper and an appropriate open-source license that will be added at a later time.
